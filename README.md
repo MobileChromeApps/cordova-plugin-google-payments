@@ -192,6 +192,9 @@ On failure, `options.failure` will be called with a `failureResult` as its singl
 
 # Release Notes
 
+## 2.1.1 (April 30, 2015)
+- Renamed plugin to pubilsh to NPM
+
 ## 2.1.0 (November 17, 2014)
 - Improves google.payments for consumable products
 
