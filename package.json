@@ -1,0 +1,37 @@
+{
+  "name": "cordova-plugin-google-payments",
+  "version": "2.1.1-dev",
+  "description": "\n    Enable in-app-purchases in the App Store and Play Store using a mobile version of the Google Wallet for Digital Goods API\n  ",
+  "cordova": {
+    "id": "cordova-plugin-google-payments",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MobileChromeApps/cordova-plugin-google-payments.git"
+  },
+  "keywords": [
+    "google",
+    "payment",
+    "purchase",
+    "wallet",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": "",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/MobileChromeApps/cordova-plugin-google-payments/issues"
+  },
+  "homepage": "https://github.com/MobileChromeApps/cordova-plugin-google-payments"
+}

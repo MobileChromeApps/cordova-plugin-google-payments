@@ -22,7 +22,7 @@
   <issue>https://github.com/MobileChromeApps/mobile-chrome-apps/issues</issue>
 
   <dependency id="cc.fovea.plugins.inapppurchase" />
-  <dependency id="org.chromium.common" />
+  <dependency id="cordova-plugin-chrome-apps-common" />
 
   <js-module src="www/google.payments.js" name="payments">
     <clobbers target="google.payments" />

@@ -2,7 +2,7 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
-var Event = require('org.chromium.common.events');
+var Event = require('cordova-plugin-chrome-apps-common.events');
 
 var INTERNAL_SERVER_ERROR = "INTERNAL_SERVER_ERROR",
     MERCHANT_ERROR = "MERCHANT_ERROR",
