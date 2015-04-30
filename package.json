@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-google-payments",
-  "version": "2.1.1",
+  "version": "2.1.2-dev",
   "description": "\n    Enable in-app-purchases in the App Store and Play Store using a mobile version of the Google Wallet for Digital Goods API\n  ",
   "cordova": {
     "id": "cordova-plugin-google-payments",
